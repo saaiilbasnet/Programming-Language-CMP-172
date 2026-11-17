@@ -1,9 +1,10 @@
-# C-File
+# Programming Language CMP 172
 
-Problems solved through the whole semester of CMP 172, reclassified by
-topic with **one problem per file**. Each `.c` file starts with a short
-comment describing the problem it solves, and runs on its own (no
-commented-out blocks to uncomment).
+This repo was reclassified into readable, one-file-per-problem solutions
+of every problem solved by Saaiil Basnet in his first year, first
+semester of CMP 172. Each `.c` file starts with a short comment
+describing the problem it solves, and runs on its own (no commented-out
+blocks to uncomment).
 
 ## 01_Basics - variables, input/output, expressions
 - `days_to_years_months.c` - convert total days into years, months, remaining days
